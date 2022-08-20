@@ -1,0 +1,136 @@
+---
+title: "Tilina Alzaben"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i>  
+[tilina.alzaben\@gmail.com](mailto:tilina.alzaben@gmail.com){.email}
+
+-   <i class="fa fa-suitcase"></i>  
+Columbia, Maryland
+
+-   <i class="fa fa-phone"></i>  
++1 443-699-9301
+
+-   <i class="fa fa-github"></i>  
+[github.com/ti-99](https://github.com/ti-99)
+
+-   <i class="fa fa-linkedin"></i>  
+[linkedin/in/talzaben](https://www.linkedin.com/in/talzaben/)
+
+
+## Skills {#skills}
+
+-   **Programming:** Python, R, C++, JavaScript, Prolog, SQL
+
+-   **Tools:** Anaconda, MS Excel, MS Power BI, GitHub, GIS, ScikitLearn
+
+-   **Languages:** English and Arabic
+
+## Disclaimer {#disclaimer}
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Tilina Alzaben {#title}
+
+### Junior Data Scientist
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of Maryland, Baltimore County
+
+B.S. in Statistics and Computer Science
+
+Baltimore, MD
+
+Dec 21
+
+
+## Experience {data-icon="suitcase"}
+
+### Data Science Fellow
+
+The University of the South
+
+Sewanee, TN
+
+May 22 - Jul 22
+
+Developed a risk assessment tool for [BetterFi](https://www.betterfi.co/), a non-profit working to end predatory lending, based on historical data that can estimate default risk
+
+### Data Science Intern
+
+TTX Company
+
+Chicago, IL
+
+Mar 22 - Jun 22
+
+Assisted with the mathematical formulation of stochastic optimization problems such as fleet cycle time modeling stimulation using ARIMA
+
+
+### Data Governance Intern
+
+Highmark Health
+
+Pittsburgh, PA
+
+May 21 - Aug 21
+
+Assisted with updating internal policies and procedures and worked with an inventory of file interoperability to review for better access and tracking
+
+
+### Data Science Scholar
+
+University of Maryland, Baltimore County
+
+Baltimore, MD
+
+Jan 21 - Jun 21
+
+Served as a peer mentor to 100 foundational data science students, working to support their machine learning project development in Python 
+
+### Lead Code Sensei
+
+Code Ninjas
+
+Ellicott City, MD
+
+Jul 20 - Jun 22
+
+Guided children, ages 7 up to 15, through programming concepts in various languages such as JavaScript, Python, C++, Unity, and Lua
+
+
+## Volunteering {data-icon="users"}
+
+### Academic Peer Advocate
+
+Univeristy of Maryland, Baltimore County
+
+Baltimore, MD
+
+Aug 21 - Dec 21
+
+Built an artificial intelligence system to reliably identify the risk of academic difficulties in over 250 freshmen
+
+### Assistant Director
+
+The REACH Initiative
+
+Baltimore, MD
+
+Aug 19 - Dec 21
+
+Hosted a series of STEM-related workshops for 30 high school girls, intending to enhance their understanding of various STEM careers
+
+
+
