@@ -1,0 +1,13 @@
+name: "my-resume"
+output_dir: "docs"
+navbar:
+  title: "Tilina Alzaben Resume"
+  left:
+    - text: "Home"
+      href: resume.html
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    highlight: textmate
+    css: styles.css
